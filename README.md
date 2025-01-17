@@ -4,4 +4,4 @@ Quest’ultimo, nei modelli semplici, è risultato veloce e abbastanza affidabil
 mentre nei modelli complessi, è riuscito a fornire spiegazioni molto accurate in tempi comunque accettabili, ma non minori rispetto ai metodi standardizzati.
 In conclusione, questa tesi ha dimostrato che l’utilizzo di metodi ibridi può rendere l’intelligenza artificiale più accessibile e pratica, 
 aprendo nuove opportunità in settori critici come la medicina, per esempio.
-Relatore: Ing. Antonio Luca Alfeo
+Relatori: Ing. Antonio Luca Alfeo e Prof Mario G.C.A. Cimino
